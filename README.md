@@ -11,9 +11,6 @@
 - **Direct Fit Heatmap on the Skin**: Instead of rendering generic 3D clothes, Verdrobe projects contiguous fit zones directly onto the 3D body where the garment touches (Red = Tight, Green = Balanced Fit, Blue = Loose).
 - **Full Resale Marketplace**: Browse pre-loved clothing, search with one-click personal fit filters ("Fits me"), explore 5-zone fit strips on every card, list items in 3 steps with flat-lay measuring guides, and checkout atomically in TND.
 
-> **Demo Walkthrough Video**: [Watch the 90-Second Demo Video (media/demo.mp4)](#demo-video-note)  
-> *(Note: Host machine did not have local ffmpeg installed for automated capture; see [docs/DEMO_SCRIPT.md](docs/DEMO_SCRIPT.md) for full interactive click-by-click script and narration).*
-
 ---
 
 ## The Problem
