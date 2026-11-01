@@ -134,13 +134,5 @@ Verdrobe is designed to evolve based on real buyer feedback:
 
 ---
 
-## Résumé en Français
 
-**Verdrobe** est une marketplace de vêtements de seconde main qui résout le problème des tailles incertaines grâce à une visualisation 3D innovante. Plutôt que de simuler des tissus en 3D (lourd et imprécis), la plateforme génère un avatar 3D paramétrique fidèle aux mensurations de l'acheteur (précision médiane mesurée à **0.357 cm**) et projette les mesures de l'article posé à plat sous forme de carte thermique directement sur la peau (rouge = serré, vert = ajustement idéal, bleu = ample). Conçu avec Next.js, Three.js, Prisma et un microservice Python/FastAPI basé sur la bibliothèque Anny de NAVER LABS Europe.
-
----
-
-## Repository & Source Code
-
-- **Source Code**: *Available upon request for recruiters and interviewers*
 - **Built by**: **Ahmed Mrabet** ([GitHub: @ahmed-mr1](https://github.com/ahmed-mr1) · [Email](mailto:mrabetahmed.tbs@gmail.com))
